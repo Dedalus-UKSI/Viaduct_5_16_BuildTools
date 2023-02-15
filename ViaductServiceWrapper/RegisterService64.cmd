@@ -1,0 +1,1 @@
+Viaduct64.exe --WinRun4J:RegisterService
